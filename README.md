@@ -1,2 +1,2 @@
 # scribble
-An android app to scribble things down!
+An android app to scribble things down.
